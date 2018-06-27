@@ -1,7 +1,8 @@
 # shiiing-swash
 2D Platformer made with Unity. Survive waves of foes, place towers, improves skills, play with friends.
+Not playable for now
 
-## V1
+## V1 in progress
 * Player's moves: left, right, jump, climb ladders up and down
 * Player's actions: hit with sword
 * Foes' moves: left, right, climb ladders up and down
