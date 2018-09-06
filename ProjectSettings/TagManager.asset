@@ -41,3 +41,27 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: Background
+    uniqueID: 2166289435
+    locked: 0
+  - name: Platform Back
+    uniqueID: 1498814087
+    locked: 0
+  - name: Usable Back
+    uniqueID: 3387647905
+    locked: 0
+  - name: Decorative Back
+    uniqueID: 511571985
+    locked: 0
+  - name: Player
+    uniqueID: 1402088567
+    locked: 0
+  - name: Decorative Front
+    uniqueID: 1369457883
+    locked: 0
+  - name: Platform Front
+    uniqueID: 2502109803
+    locked: 0
+  - name: Usable Front
+    uniqueID: 3798627869
+    locked: 0
